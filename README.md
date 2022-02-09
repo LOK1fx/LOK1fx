@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LOK1fx
 - 👀 I’m interested in creating indie games
-- 🌱 I’m currently learning ue4 and c++
 - 📫 How to reach me lok1gameproject.suport@gmail.com
 
 <!---
