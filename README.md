@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: lok1gameproject.suport@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/{LOK1fx}/count.svg)
-
 <!---
 
 - 👋 Hi, I’m @LOK1fx
